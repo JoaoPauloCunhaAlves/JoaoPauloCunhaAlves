@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bf616&height=120&section=header" />
+</div>
+
 # Olá, eu sou João Paulo da Cunha Alves 👋
 
 <div align="center">
@@ -47,6 +51,16 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e impactantes. M
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaopaulocunha&color=blueviolet" alt="Visualizações do perfil" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bf616&height=120&section=footer" />
+</div>
 
 ---
 
