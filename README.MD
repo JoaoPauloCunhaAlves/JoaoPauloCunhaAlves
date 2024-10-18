@@ -17,7 +17,7 @@
 
 ## Languages & Tools I Have Placed My Hands On
 
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -37,12 +37,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloCunhaAlves&layout=compact&langs_count=7&theme=dark"/>
 </a>
 
-## Connect with me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/joao-paulo-cunha-alves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão paulo cunha alves" height="30" width="40" /></a>
-<a href="https://www.instagram.com/joaopaulocunha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaopaulocunha" height="30" width="40" /></a>
-</p>
 
 ---
 
